@@ -2,11 +2,11 @@
 :root{
 	background-color:rgb(135, 206, 235);
 }
-p:first-child{
+div p:first-child{
 	background-color: black;
 	color: white;
 }
-p:last-child{
+div p:last-of-type{
 	color: red;
 }
 
